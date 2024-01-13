@@ -5,5 +5,6 @@
 3.Create a style.css file. The file name must be style and its extension .css
 4. Create a script.js file. The file name must be script and its extension .js
 
-<img width="536" alt="Chatbot" src="https://github.com/supreetvajjarmatti/chatbot/assets/119556076/3e7a9def-a0ed-4975-a0d5-48312b48f5ce">
+![Screenshot (272)](https://github.com/supreetvajjarmatti/chatbot/assets/119556076/cb152bf0-ebde-454a-85aa-80e6a53b7ef1)
+
 
